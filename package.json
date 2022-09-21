@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@celo/contractkit": "^2.1.0",
+    "@celo/react-celo": "^4.1.0",
     "next": "latest",
     "react": "18.1.0",
     "react-dom": "18.1.0"
